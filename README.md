@@ -56,7 +56,9 @@ These cases shouldn't logically occur and will affect the accuracy and so the pe
 
 ### JUnit Test
 
-Issue with H2DB that doesn't support TEXT (Solution option: put test database on mysql)
+Tests incomplete. 
+Encountered many issues with test and the config with H2DB that doesn't support TEXT 
+(Potential Solution: put test database on mysql or use @Profile)
 
 
 
