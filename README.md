@@ -1,4 +1,4 @@
-# d4t4r3publ1c-coding-test
+# microservices-coding-test
 
 ## Scenario
 
@@ -28,7 +28,7 @@ What do we provide:
 
 ## My Answer
 
-My work is located on GitHub at this location: https://github.com/nicolasrabier/d4t4r3publ1c-coding-test
+My work is located on GitHub at this location: https://github.com/nicolasrabier/microservices-coding-test
 
 ### API Documentation
 
